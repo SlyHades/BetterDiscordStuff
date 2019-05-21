@@ -1070,9 +1070,6 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 .container-2Thooq .avatar-3JE4B3 {
   transition:250ms all linear;
 }
-.da-channels:hover .container-2Thooq .avatar-3JE4B3 {
-  transform:scale(1.1);
-}
 .container-2Thooq .button-2b6hmh {
     transition:250ms ease all;
     border-radius:var(--media-roundness);
@@ -1145,9 +1142,6 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 .container-2Thooq .avatar-3JE4B3 {
   transition:250ms all linear;
 }
-.da-channels:hover .container-2Thooq .avatar-3JE4B3 {
-  transform:scale(1.1);
-}
 .container-2Thooq .button-2b6hmh {
     transition:250ms ease all;
     border-radius:var(--media-roundness);
@@ -1167,9 +1161,6 @@ body #app-mount .channel-2QD9_O.selected-1HYmZZ a {
 .bannerImage-1jOskm {
   -webkit-mask: linear-gradient(black, transparent 100%);
   transition:.3s width ease;
-}
-.da-channels:hover .bannerImage-1jOskm {
-  width:320px !important;
 }
 
 /*4.d. Transparency*/
